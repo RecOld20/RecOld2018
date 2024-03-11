@@ -1,7 +1,6 @@
 {
   "StorefrontType": 2,
-  "NextUpdate": "2024-03-10T23:99:37+00:00
-",
+  "NextUpdate": "2024-03-17T23:59:37+00:00",
   "StoreItems": [
     {
       "PurchasableItemId": 666,
@@ -199,15 +198,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 1
+          "Price": 700
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "BETA",
+          "FriendlyName": "Keep Warm Set Scarf (White,Pink)",
           "Tooltip": "",
-          "AvatarItemDesc": "1014dded-3bbc-479b-a6cb-afa7413de2da,,,",
+          "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
